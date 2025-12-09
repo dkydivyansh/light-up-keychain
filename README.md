@@ -47,5 +47,4 @@ The LEDs (D1-D26) are connected in opposing pairs across these lines. By rapidly
 | ![Render](image_2.png) | ![Artwork](image_3.png) |
 
 ## License
-
-[Insert your chosen license here, e.g., MIT, CC-BY-SA]
+ GPL-3.0 license
